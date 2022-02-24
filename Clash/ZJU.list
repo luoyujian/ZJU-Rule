@@ -10,6 +10,12 @@ DOMAIN-KEYWORD,cc98
 # NexusHD
 DOMAIN-KEYWORD,nexushd
 
+# ICSR WIKI
+DOMAIN-SUFFIX,icsr.wiki
+
+# ZJU School-Bus
+DOMAIN-SUFFIX,zjusec.com
+
 # 校内 IP
 IP-CIDR,10.0.0.0/8,no-resolve
 
