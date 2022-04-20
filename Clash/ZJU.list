@@ -2,19 +2,12 @@
 # 校内直连，校外通过内网穿透或 RVPN 访问
 
 # 域名
-DOMAIN-SUFFIX,zju.edu.cn
+DOMAIN-SUFFIX,hnu.edu.cn
 
 # CC98
 DOMAIN-KEYWORD,cc98
 
-# NexusHD
-DOMAIN-KEYWORD,nexushd
 
-# ICSR WIKI
-DOMAIN-SUFFIX,icsr.wiki
-
-# ZJU School-Bus
-DOMAIN-SUFFIX,zjusec.com
 
 # 校内 IP
 IP-CIDR,10.0.0.0/8,no-resolve
@@ -39,3 +32,17 @@ DOMAIN-SUFFIX,duxiu.com
 DOMAIN-SUFFIX,wanfangdata.com.cn
 DOMAIN-SUFFIX,koolearn.com
 DOMAIN-SUFFIX,cssci.nju.edu.cn
+DOMAIN-SUFFIX,pubs.acs.org
+DOMAIN-SUFFIX,nature.com
+DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,webofscience.com
+DOMAIN-SUFFIX,http://academic.eb.cnpeak.com/
+DOMAIN-SUFFIX,degruyter.com
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,.cambridge.org
+DOMAIN-SUFFIX,cas.org
+DOMAIN-SUFFIX,pubs.rsc.org
+DOMAIN-SUFFIX,.ieee.org
+DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,wiley.com
+DOMAIN-SUFFIX,journals.aps.org
