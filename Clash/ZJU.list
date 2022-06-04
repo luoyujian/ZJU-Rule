@@ -16,6 +16,9 @@ DOMAIN-SUFFIX,icsr.wiki
 # ZJU School-Bus
 DOMAIN-SUFFIX,zjusec.com
 
+# ZJU SCT
+DOMAIN-SUFFIX,zjusct.io
+
 # 校内 IP
 IP-CIDR,10.0.0.0/8,no-resolve
 
