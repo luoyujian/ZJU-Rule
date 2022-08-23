@@ -22,6 +22,9 @@ DOMAIN-SUFFIX,zjusct.io
 # ZJU EVA
 DOMAIN-SUFFIX,zjueva.net
 
+# ZJU QSC
+DOMAIN-SUFFIX,zjuqsc.com
+
 # 校内 IP
 IP-CIDR,10.0.0.0/8,no-resolve
 
