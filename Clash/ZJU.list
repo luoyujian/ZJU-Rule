@@ -27,6 +27,9 @@ DOMAIN-SUFFIX,zjueva.net
 # ZJU QSC
 DOMAIN-SUFFIX,zjuqsc.com
 
+# World Cup
+DOMAIN-SUFFIX,worldcup.myth.cx
+
 # 校内 IP
 IP-CIDR,10.0.0.0/8,no-resolve
 
