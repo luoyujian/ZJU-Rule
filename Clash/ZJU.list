@@ -32,7 +32,8 @@ IP-CIDR,10.0.0.0/8,no-resolve
 
 # Illinois
 # 国际校区要用，走代理会被判异地强制改密码
-DOMAIN-SUFFIX,illinois.edu
+DOMAIN-KEYWORD,illinois.edu
+DOMAIN-SUFFIX,illinoisedu.instructure.com
 
 # 通过 IP 认证的资源
 # 请勿添加可通过统一身份认证访问的国外资源，此类资源无需内网环境，可通过代理加速访问
